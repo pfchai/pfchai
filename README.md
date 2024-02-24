@@ -10,10 +10,9 @@
 
 # Hey 👋, I'm pfchai
 
-- 🔭 I’m currently working on **WeDoctor**
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NLP**, **LLM**
 - 👯 Currently working in **Hangzhou, China**
-- 💬 Ask me about Deep Learning, Python and my projects
+- 💬 Ask me about LLM, Deep Learning, Python and my projects
 - 📫 How to reach me: [**pfchai1991 at gmail.com**](mailto:pfchai1991@gmail.com)
 
 
